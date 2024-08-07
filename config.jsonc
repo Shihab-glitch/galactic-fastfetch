@@ -142,12 +142,7 @@
             "key": "| 20.             Local IP  󰩟",
             "keyColor": "cyan"
         },
-    {
-            "type": "publicip",
-            "key": "| 21.            Public IP  󰩟",
-            "keyColor": "blue"
-        },
-
+    
     "break",
 
     {
