@@ -144,15 +144,10 @@
         },
     {
             "type": "localip",
-            "key": "├ 20.             Local IP  󰩟",
+            "key": "└ 20.             Local IP  󰩟",
             "keyColor": "magenta"
         },
-    {
-            "type": "publicip",
-            "key": "└ 21.            Public IP  󰩟",
-            "keyColor": "magenta"
-        },
-
+    
     "break",
 
     {
