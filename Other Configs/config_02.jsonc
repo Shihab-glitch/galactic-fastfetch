@@ -4,7 +4,7 @@
     "multithreading": true
   },
   "logo": {
-        "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/\" -name \"*.png\" | sort -R | head -1)",
+        "source": "$(find \"/home/USER/.config/fastfetch/\" -name \"*.png\" | sort -R | head -1)",
         "padding": {"top": 8},
         "height": 14
     },
