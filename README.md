@@ -8,8 +8,8 @@ A fastfetch theme for the lovers of Galactic Adventures.
 1. Install 'fastfetch' in your machine / OS.
 2. Generate config file by using command - $ fastfetch --gen-config
 3. Install Nerd Fonts and change the Terminal Font to the installed Nerd Font of your liking. I use Meslo.
-4. Locate your fastfetch config folder and copy the files of this repo into that folder. Replace the previous config.jsonc with mine.
+4. Locate your fastfetch config folder (/home/USER/.config/fastfetch/) and copy the files of this repo into that folder. Replace the previous config.jsonc with mine and keep the pngs folder.
 
 # Changes to load Custom .png images :
 1. Change the USER ("source": "$(find "/home/USER/.config/fastfetch/" -name "*.png" | sort -R | head -1)") of the config for pngs to work.
-
+2. Change the name of config_xx.jsonc to config.jsonc and keep it in the fastfetch config folder.
