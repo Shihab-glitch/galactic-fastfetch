@@ -1,10 +1,18 @@
 # galactic-fastfetch
 A fastfetch theme for the lovers of Galactic Adventures.
-# Screenshots
 
-<img src="preview/config-01.png" width="49%" align="top" />
-<img src="preview/config-02.png" width="49%" align="top" />
-<img src="preview/config-03.png" width="49%" align="top" />
+## 📷 Previews - 
+<details>
+  <summary style="font-size: 18px; font-weight: 600;">preview images </summary>
+
+<br>
+<img src="preview/config-01.png">
+
+<br>
+<img src="preview/config-02.png">
+
+<br>
+<img src="preview/config-03.png">
 
 # Steps for setting this fastfetch config :
 1. Install 'fastfetch' in your machine / OS.
