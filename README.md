@@ -3,7 +3,7 @@ A fastfetch theme for the lovers of Galactic Adventures.
 
 ## 📷 Previews - 
 <details>
-  <summary style="font-size: 18px; font-weight: 600;">preview images </summary>
+  <summary style="font-size: 18px; font-weight: 600;">Preview Images </summary>
 
 <br>
 <img src="preview/config-01.png">
