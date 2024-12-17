@@ -1,7 +1,7 @@
 # galactic-fastfetch
 A fastfetch theme for the lovers of Galactic Adventures.
 
-## 📷 Previews - 
+## 📷 Previews
 <details>
   <summary style="font-size: 18px; font-weight: 600;">Preview Images </summary>
 
@@ -14,6 +14,10 @@ A fastfetch theme for the lovers of Galactic Adventures.
 <br>
 <img src="preview/config-03.png">
 
+<br>
+</details>
+
+<br>
 
 # Steps for setting this fastfetch config :
 1. Install 'fastfetch' in your machine / OS.
@@ -24,3 +28,6 @@ A fastfetch theme for the lovers of Galactic Adventures.
 # Changes to load Custom fastfetch theme :
 1. Change the name of config_xx.jsonc to config.jsonc
 2. Change the USER ("source": "$(find "/home/USER/.config/fastfetch/" -name "*.png" | sort -R | head -1)") of the config for pngs to work.
+
+# Extra :
+Change the Arch Linux logo with the distribution you are using
