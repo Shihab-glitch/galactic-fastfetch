@@ -14,6 +14,7 @@ A fastfetch theme for the lovers of Galactic Adventures.
 <br>
 <img src="preview/config-03.png">
 
+
 # Steps for setting this fastfetch config :
 1. Install 'fastfetch' in your machine / OS.
 2. Generate config file by using command - $ fastfetch --gen-config
