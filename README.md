@@ -1,5 +1,5 @@
 # galactic-fastfetch
-A fastfetch theme for the lovers of Galactic Adventures.
+Fastfetch themes for the lovers of Galactic Adventures.
 
 ## 📷 Previews
 <details>
